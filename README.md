@@ -6,4 +6,6 @@ I am also working to acquire an undergraduate internship involving data analysis
 
 I have work experience as a private tutor, a grader for Cal Poly's statistics department, a math instructor for Mathnasium, and an office assistant intern for GS Laboratories.
 
+If you would like to view samples of my work on GitHub, please let me know and I can provide access.
+
 Overall, I have a passion for working with data and helping others with my well-rounded skillset. I look forward to exploring future opportunities to apply my strengths in a professional setting.
